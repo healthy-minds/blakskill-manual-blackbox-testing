@@ -50,10 +50,8 @@ As part of **Group 4’s QA team leadership**, my contributions included:
 - Contributing to the Test Summary Report.
 - Delivering the **final project defense presentation** on behalf of the team.
 
-## 📷 Screenshots
-*(Add screenshots here if available — bug reports, test execution evidence, etc.)*
 
-## 🚀 How to View the Project
+## How to View the Project
 - Navigate to the `docs/` folder for all QA documentation.
 - View the `presentation/` folder for the final project defense slides.
 
